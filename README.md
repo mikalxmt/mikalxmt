@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at miguelamenat@gmail.com
-- ⚡ Fun fact: I code in two languages, C++ and Java
+- ⚡ Fun fact: I code in two languages C++ and Java
+                and speak English, Spanish and French
 
 <!---
 mikalxmt/mikalxmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
